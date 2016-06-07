@@ -14,4 +14,4 @@
 ## Running Instructions
 * **Note:** Make sure that the xserver is running 
 * To run the server, enter the command java panserver
-*To run the client, enter the command java panclient
+* To run the client, enter the command java panclient
